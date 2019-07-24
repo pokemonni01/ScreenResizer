@@ -3,4 +3,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="height">HEIGHT</string>
+    <string name="width">WIDTH</string>
+    <string name="density">DENSITY</string>
+    <string name="change_size">CHANGE SIZE</string>
 </resources>
